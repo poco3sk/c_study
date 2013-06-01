@@ -15,8 +15,11 @@
 ### 文字コード
 * 例はshift-jisなので、utf-8環境ではバイト数を考慮
 
-
-
+## 第3章
+### sizeof演算子
+* 自分の環境ではprintfのフォーマットは%zdとする必要があった
+    * size_t
+    * man sprintf
 
 
 
